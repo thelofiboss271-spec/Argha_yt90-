@@ -1,0 +1,8 @@
+{
+  "name": "Study Bro: Indian Student Study Buddy",
+  "description": "An AI Study Doubt Solver for Class 6-12 Indian students offering multimodal support, visual aids, and video explanations in Bengali, English, and Banglish.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
